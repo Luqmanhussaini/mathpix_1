@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Navbar */
+.fs-6{
+  size: 120px;
+}
+.bg-co{
+  background-color: white;
+  border-bottom-style:  solid;
+  border-bottom-color: black;
+  border-bottom-width: thin
+}
+#this{
+  color: aliceblue;
+  /* border: 10px; */
+  border-radius: 10px;
+  width: 50px;
+
+  /* padding: 30px; */
+
+}
+#login{
+  padding-right: 4%;
+  padding-top: 1%;
+}
+#this{
+  
+  margin-left:40px ;
+}
+.nav-item{
+    padding: 0.6%;
+    padding-bottom: 0%;
+}
+
+
+/* Intro */
+#intro_img{
+  width: 650px;
+}
+.hole{
+  margin-top: 5%;
+}
+.sidebox{
+  margin-top: 5%;
+  margin-left: 5%;
+  padding: 0%;
+}
+.img_class{
+  margin: 60px;
+  margin-right: 10%;
+  margin-left: 5%;
+}
+.ai_head{
+  font-size:65px;
+  line-height: 100%;
+
+}
+.text_inner{
+  margin-top: 10px;
+  margin-right: 10%;
+}
+.buton{
+  padding: 0%;
+  margin-top:30px ;
+  border: 0%;
+}
+p-2 {
+  padding: 5px;
+}
+
+/* Partner */
+.company{
+  background-color: #EBF7FF;
+
+}
+.img_s{
+    max-width: 100%;
+    height: auto;
+    border-top: 0%;
+
+}
+.heading{
+  padding: 5%;
+  padding-bottom: 2%;
+}
+.images{
+  margin-top: 2%;
+  margin-bottom: 0%;
+}
+.img_s{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* researches */
+
+.auth{
+  color: #0093ff;
+}
+.btn-outline-secondary{
+  color:#0093ff;
+}
+.info_here{
+  margin: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.dd{
+  margin: 2%;
+  margin-left: 2%;
+}
+
+.dd-1{
+  font-size: 45px;
+}
+.img_class2{
+  margin: 0%;
+}
+
+.doit{
+  margin-right: 8%;
+}
+.snip{
+  margin-top: 8%;
+}
+.distance{
+  margin-top:10% ;
+}
+
+
+/* Colorbar */
+.boxx{
+  background-color: #EBF7FF;
+  margin-top: 5%;
+  padding: 3%;
+}
+.fs--{
+  font-size: 50px;
+  margin-right: 15%;
+}
+.count{
+  color: #0093ff;
+  font-size: 64px;
+  line-height: 64px;
+}
+.text-box{
+  margin-top: 8%;
+}
+.disp{
+  margin: 5%;
+}
+.popp{
+  font-family: 'Poppins', sans-serif;
+}
+
+.os{
+  font-size: medium;
+  font-family: 'Poppins', sans-serif;
+}
+
+.ml{
+  margin-left: 5%;
+}
+.inside_padding{
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.m_auto{
+  margin:auto;
+}
+
+.p_100{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.three_btns{
+  margin-top: 32px;
+  margin-bottom: 56px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.jst_flex {
+  display: flex;
+  justify-content: center;
+}
